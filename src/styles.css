@@ -3,3 +3,8 @@
 
 /* The deliberately simple notice cards only display receipt metadata; they do not implement an ownership-claim workflow. */
 .handover-note{font-size:10px;line-height:1.45;color:#746e61;margin:2px 0 10px;padding-top:4px;}
+
+/* Focused usability cues for report status, card actions, and active filters. */
+.active-filters{display:flex;align-items:center;flex-wrap:wrap;gap:6px;margin:-4px 0 14px;font-size:10px;color:#706b61}.active-filters strong{font-size:10px}.active-filters span{background:#f4efe2;border:1px solid #e3dac6;border-radius:12px;padding:4px 8px}
+.status-badge{display:inline-block;border-radius:12px;padding:5px 9px;font-size:9px;font-weight:800;text-transform:uppercase;letter-spacing:.06em;color:#563b34;background:#f9b0a6}.status-badge.found{background:#a8d7c6;color:#244b3e}.status-badge.claimed{background:#cad6ed;color:#344465}.sticky-emoji{margin:10px 0}
+.menu{border:1px solid #d8d1c3;border-radius:4px;background:#fff;padding:5px 7px;font-size:9px;font-weight:800;line-height:1;color:#56564e}.menu span{font-size:13px;letter-spacing:1px;margin-left:3px}

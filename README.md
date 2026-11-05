@@ -37,7 +37,7 @@ Your redesign should support the scenario above without removing or weakening th
 
 - Explain the user's goal and why each issue hurts usability.
 - Ask AI to suggest alternatives and compare trade-offs before you implement a solution.
-- Choose your own changes; there is no prescribed visual redesign.
+- Choose your own changes; there is no prescribed visual redesign...
 - Preserve all working behavior and relevant validation.
 - Demonstrate the main action, one unsuccessful action, and your three improvements.
 
